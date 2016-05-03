@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://dockerlux.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/services/about/about/</loc>
+    <loc>http://dockerlux.github.io/services/about/about/</loc>
   </url>
   
 </urlset>
